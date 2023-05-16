@@ -1,4 +1,6 @@
 Song Tracker, Uta George Adrian, grupa 1121
+
+MODIFICARILE SUNT IN BRANCH-UL: "BRANCH_NOU".
 Documentația proiectului – Song Tracker:
 
 Proiectul Song Tracker este o aplicație creată pentru a vă ajuta să urmăriți și să organizați muzica preferată. Scopul său principal este să ofere utilizatorilor o modalitate convenabilă de a descoperi, sterge și gestiona melodiile preferate.
